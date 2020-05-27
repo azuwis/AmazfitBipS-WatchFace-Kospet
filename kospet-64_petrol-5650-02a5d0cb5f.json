@@ -49,9 +49,9 @@
     "Steps": {
       "Number": {
         "TopLeftX": 36,
-        "TopLeftY": 83,
+        "TopLeftY": 163,
         "BottomRightX": 79,
-        "BottomRightY": 96,
+        "BottomRightY": 176,
         "Alignment": "TopRight",
         "Spacing": 2,
         "ImageIndex": 21,
@@ -73,9 +73,9 @@
     "Distance": {
       "Number": {
         "TopLeftX": 98,
-        "TopLeftY": 83,
+        "TopLeftY": 163,
         "BottomRightX": 148,
-        "BottomRightY": 93,
+        "BottomRightY": 173,
         "Alignment": "TopLeft",
         "Spacing": 2,
         "ImageIndex": 21,
