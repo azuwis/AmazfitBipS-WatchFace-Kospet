@@ -48,9 +48,9 @@
   "Activity": {
     "Steps": {
       "Number": {
-        "TopLeftX": 39,
+        "TopLeftX": 36,
         "TopLeftY": 83,
-        "BottomRightX": 82,
+        "BottomRightX": 79,
         "BottomRightY": 96,
         "Alignment": "TopRight",
         "Spacing": 2,
@@ -72,9 +72,9 @@
     },
     "Distance": {
       "Number": {
-        "TopLeftX": 95,
+        "TopLeftX": 98,
         "TopLeftY": 83,
-        "BottomRightX": 145,
+        "BottomRightX": 148,
         "BottomRightY": 93,
         "Alignment": "TopLeft",
         "Spacing": 2,
@@ -89,20 +89,20 @@
     "MonthAndDay": {
       "Separate": {
         "Month": {
-          "TopLeftX": -75,
-          "TopLeftY": 15,
-          "BottomRightX": 176,
-          "BottomRightY": 22,
+          "TopLeftX": -74,
+          "TopLeftY": 5,
+          "BottomRightX": 177,
+          "BottomRightY": 12,
           "Alignment": "TopLeft",
           "Spacing": -20,
           "ImageIndex": 33,
           "ImagesCount": 10
         },
         "Day": {
-          "TopLeftX": 88,
-          "TopLeftY": 15,
-          "BottomRightX": 100,
-          "BottomRightY": 22,
+          "TopLeftX": 92,
+          "TopLeftY": 5,
+          "BottomRightX": 104,
+          "BottomRightY": 12,
           "Alignment": "TopLeft",
           "Spacing": 1,
           "ImageIndex": 21,
@@ -114,7 +114,7 @@
     },
     "WeekDay": {
       "X": 59,
-      "Y": 27,
+      "Y": 17,
       "ImageIndex": 43,
       "ImagesCount": 7,
       "Unknown5": 0,
@@ -124,8 +124,8 @@
   "Weather": {
     "Icon": {
       "CustomIcon": {
-        "X": 82,
-        "Y": 140,
+        "X": 153,
+        "Y": 72,
         "ImageIndex": 50,
         "ImagesCount": 26
       }
@@ -133,10 +133,10 @@
     "Temperature": {
       "Current": {
         "Number": {
-          "TopLeftX": 74,
-          "TopLeftY": 159,
-          "BottomRightX": 114,
-          "BottomRightY": 169,
+          "TopLeftX": 145,
+          "TopLeftY": 89,
+          "BottomRightX": 185,
+          "BottomRightY": 99,
           "Alignment": "Center",
           "Spacing": 2,
           "ImageIndex": 76,
@@ -158,16 +158,6 @@
       "ImageIndexOn": 88,
       "ImageIndexOff": 89
     },
-    "Alarm": {
-      "Coordinates": {
-        "X": 31,
-        "Y": 111,
-        "Unknown09": 0,
-        "Unknown10": 0
-      },
-      "ImageIndexOn": 90,
-      "ImageIndexOff": 50
-    },
     "DoNotDisturb": {
       "Coordinates": {
         "X": 134,
@@ -177,28 +167,6 @@
       },
       "ImageIndexOn": 91,
       "ImageIndexOff": 50
-    }
-  },
-  "Battery": {
-    "Text": {
-      "Number": {
-        "TopLeftX": 150,
-        "TopLeftY": 93,
-        "BottomRightX": 172,
-        "BottomRightY": 103,
-        "Alignment": "Center",
-        "Spacing": 1,
-        "ImageIndex": 92,
-        "ImagesCount": 10
-      }
-    },
-    "Icon": {
-      "X": 152,
-      "Y": 80,
-      "ImageIndex": 102,
-      "ImagesCount": 10,
-      "Unknown5": 0,
-      "Unknown6": 0
     }
   }
 }
