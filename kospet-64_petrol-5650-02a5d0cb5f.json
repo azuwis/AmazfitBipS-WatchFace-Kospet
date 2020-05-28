@@ -89,19 +89,19 @@
     "MonthAndDay": {
       "Separate": {
         "Month": {
-          "TopLeftX": 62,
+          "TopLeftX": 63,
           "TopLeftY": 5,
-          "BottomRightX": 74,
+          "BottomRightX": 75,
           "BottomRightY": 12,
-          "Alignment": "TopLeft",
+          "Alignment": "TopRight",
           "Spacing": 1,
           "ImageIndex": 76,
           "ImagesCount": 10
         },
         "Day": {
-          "TopLeftX": 82,
+          "TopLeftX": 80,
           "TopLeftY": 5,
-          "BottomRightX": 94,
+          "BottomRightX": 92,
           "BottomRightY": 12,
           "Alignment": "TopLeft",
           "Spacing": 1,
@@ -113,7 +113,7 @@
       "TwoDigitsDay": true
     },
     "WeekDay": {
-      "X": 105,
+      "X": 102,
       "Y": 5,
       "ImageIndex": 43,
       "ImagesCount": 7,
