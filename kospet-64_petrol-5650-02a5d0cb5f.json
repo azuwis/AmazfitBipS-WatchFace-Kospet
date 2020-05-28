@@ -9,8 +9,8 @@
   "Time": {
     "Hours": {
       "Tens": {
-        "X": 46,
-        "Y": 47,
+        "X": 36,
+        "Y": 41,
         "ImageIndex": 1,
         "ImagesCount": 10,
         "Unknown5": 0,
@@ -18,7 +18,7 @@
       },
       "Ones": {
         "X": 90,
-        "Y": 47,
+        "Y": 41,
         "ImageIndex": 1,
         "ImagesCount": 10,
         "Unknown5": 0,
@@ -27,8 +27,8 @@
     },
     "Minutes": {
       "Tens": {
-        "X": 47,
-        "Y": 100,
+        "X": 36,
+        "Y": 95,
         "ImageIndex": 1,
         "ImagesCount": 10,
         "Unknown5": 0,
@@ -160,8 +160,8 @@
     },
     "DoNotDisturb": {
       "Coordinates": {
-        "X": 134,
-        "Y": 101,
+        "X": 152,
+        "Y": 103,
         "Unknown09": 0,
         "Unknown10": 0
       },
